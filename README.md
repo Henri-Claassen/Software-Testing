@@ -85,11 +85,10 @@ C#
 1. Clone this repository using github desktop or bash:
    bash:  git clone https://github.com/Henri-Claassen/Software-Testing
 
-2. Open the solution in Visual Studio and ensure the main `Vet_Clinic_Project` is also available and referenced.
+2. Open the solution in Visual Studio and select the .sln file.
 
-3. Build the solution to restore dependencies.
 
-4. Run all tests via the Test Explorer in Visual Studio, or using the CLI.
+3. Run all tests via the Test Explorer in Visual Studio, or using the CLI.
 
 
 ## 🛠️ Project Structure
