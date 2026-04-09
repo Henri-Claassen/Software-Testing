@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henri\\OneDrive\\Desktop\\Belgium campus\\Year 2\\SWT 281\\Project Milestone 2\\SWT281 Submit\\SWT281 XUnit Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C827A4-3B41-49B5-873B-91456D1AD168}|SWT281 XUnit Project.csproj|c:\\users\\henri\\onedrive\\desktop\\belgium campus\\year 2\\swt 281\\project milestone 2\\swt281 submit\\swt281 xunit project\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C827A4-3B41-49B5-873B-91456D1AD168}|SWT281 XUnit Project.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Henri\\OneDrive\\Desktop\\Belgium campus\\Year 2\\SWT 281\\Project Milestone 2\\SWT281 Submit\\SWT281 XUnit Project\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Henri\\OneDrive\\Desktop\\Belgium campus\\Year 2\\SWT 281\\Project Milestone 2\\SWT281 Submit\\SWT281 XUnit Project\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAQwPMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:54:35.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
